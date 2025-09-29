@@ -127,4 +127,4 @@ tips.head()<br>
  <img width="940" height="172" alt="image" src="https://github.com/user-attachments/assets/c94183ea-15c4-4970-be3a-de6fcc456dc8" /><br>
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      Thus, Feature selection and Feature scaling has been used on thegiven dataset.
